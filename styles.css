@@ -1,0 +1,9 @@
+body, html {
+    margin: 0;
+    font-family: "Courier";
+    font-size: 12pt;
+    line-height: 6pt;
+    background-color: black;
+    color: white;
+    letter-spacing: 11px;
+}
